@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @edmbkrc
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning artificial intelligence
-- 💞️ I’m looking to collaborate on artificial intelligence
-- 📫 How to reach me ...
+- 📫 How to reach me- admcns45@gmail.com
 
 <!---
 edmbkrc/edmbkrc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
