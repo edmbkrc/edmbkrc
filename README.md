@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edmbkrc
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning artificial intelligence
+- 🌱 I’m artificial intelligence tutor
 - 📫 How to reach me- admcns45@gmail.com
 
 <!---
